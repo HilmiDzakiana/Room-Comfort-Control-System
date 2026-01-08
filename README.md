@@ -4,7 +4,7 @@
 This project implements a **PLC-based Room Comfort Control System** designed to maintain room temperature stability using **staged fan and compressor control**.  
 The control logic follows **industrial HVAC best practices**, emphasizing **safety, stability, and equipment protection**.
 
-Developed using **ladder logic**, this project is suitable for **simulation, learning, and automation engineering portfolios**.
+The system is developed using **Allen-Bradley PLC** and programmed in **RSLogix (Ladder Logic)** and is intended for industrial automation portfolios, simulation, and learning purposes.
 
 ---
 
